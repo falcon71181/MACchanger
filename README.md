@@ -2,7 +2,9 @@
 
 i encrypted the code so no one can copy paste the same code with changing author`s name
 
-
+git clone https://github.com/falcon71181/MACchanger.git
+cd MACchanger
+Python WindowsMacChanger.py
 
 
 
