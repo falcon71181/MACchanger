@@ -4,7 +4,6 @@ i encrypted the code so no one can copy paste the same code with changing author
 
 
 
-
 git clone https://github.com/falcon71181/MACchanger.git
 
 cd MACchanger
@@ -14,7 +13,7 @@ Python WindowsMacChanger.py
 
 
 
-             [+] Window Mac Changer [+]
+            [+] Window Mac Changer [+]
           
         ======================================= 
         [+] Programmed By : Falcon Clutch     |+
@@ -22,6 +21,8 @@ Python WindowsMacChanger.py
         [+] Youtube: Falcon Clutch            |+
         [+] Github : falcon71181              |+
         =======================================
+
+
 Which MAC Address do you want to update?
 
 
