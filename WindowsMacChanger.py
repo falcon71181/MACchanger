@@ -134,7 +134,7 @@ while run_last_part:
     mac_add = "-".join([(mac_to_change_to[int(update_option)][i:i+2]) for i in range(0, len(mac_to_change_to[int(update_option)]), 2)])
     
     if mac_add in getmac_output:
-        print("Mac Address Spoofing................")
-        print("Mac Address Success")
+        print("..........Mac Address Spoofing................")
+        print("..........Mac Address Changed................")
     
     break
