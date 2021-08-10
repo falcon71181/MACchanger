@@ -1,5 +1,4 @@
-                  [+] Window Mac Changer [+]
-          
+            
             ======================================= 
             [+] Programmed By : Falcon Clutch     |+
             [+] Instagram: falcon71181            |+
