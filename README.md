@@ -44,7 +44,7 @@ git clone https://github.com/falcon71181/MACchanger.git
 
 cd MACchanger
 
-python LinuxMACChanger.py -i eth0 -mac 00:11:22:33:44:55
+python LinuxMACChanger.py -i eth0 -mac xx:xx:xx:xx:xx:xx
 
               or
               
