@@ -2,23 +2,23 @@
 
 
 
-git clone https://github.com/falcon71181/MACchanger.git
+          git clone https://github.com/falcon71181/MACchanger.git
 
-cd MACchanger
+          cd MACchanger
 
-Python WindowsMacChanger.py
-
-
+          Python WindowsMacChanger.py
 
 
-            [+] Window Mac Changer [+]
+
+
+  [+] Window Mac Changer [+]
           
-        ======================================= 
-        [+] Programmed By : Falcon Clutch     |+
-        [+] Instagram: falcon71181            |+
-        [+] Youtube: Falcon Clutch            |+
-        [+] Github : falcon71181              |+
-        =======================================
+ ======================================= 
+ [+] Programmed By : Falcon Clutch     |+
+ [+] Instagram: falcon71181            |+
+ [+] Youtube: Falcon Clutch            |+
+ [+] Github : falcon71181              |+
+ =======================================
 
 
 Which MAC Address do you want to update?
@@ -40,12 +40,12 @@ Select the menu item number corresponding to the MAC that you want to change:
 
 
 
-git clone https://github.com/falcon71181/MACchanger.git
+           git clone https://github.com/falcon71181/MACchanger.git
 
-cd MACchanger
+           cd MACchanger
 
-python LinuxMACChanger.py -i eth0 -mac xx:xx:xx:xx:xx:xx
+           python LinuxMACChanger.py -i eth0 -mac xx:xx:xx:xx:xx:xx
 
-              or
+or
               
-python LinuxMACChanger.py -h   #for help
+           python LinuxMACChanger.py -h   #for help
