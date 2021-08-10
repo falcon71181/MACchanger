@@ -34,4 +34,14 @@ Which MAC Address do you want to update?
 
 
 Select the menu item number corresponding to the MAC that you want to change:
-        
+    
+    
+  # MACchanger for LINUX only
+
+
+
+git clone https://github.com/falcon71181/MACchanger.git
+
+cd MACchanger
+
+python LinuxMACChanger.py -i eth0 -mac 00:11:22:33:44:55
